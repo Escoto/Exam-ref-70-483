@@ -1,0 +1,17 @@
+**/bin
+**/obj
+**.suo
+**.ide
+**/packages
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ide
+.vs
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
